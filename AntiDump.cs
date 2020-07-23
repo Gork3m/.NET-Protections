@@ -1,3 +1,5 @@
+// A slightly modified version of generic anti dumper. But this one works.
+
 using System;
 using System.Runtime.InteropServices;
 using System.IO;
